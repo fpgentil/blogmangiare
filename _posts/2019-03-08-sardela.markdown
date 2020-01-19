@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Sardela"
+date:   2019-03-08 00:00:00 +3
+categories: receita
+---
+
+## Ingredientes
+
+- 2 pimentões sem pele e sem semente;
+- 2 colheres de sopa de azeite;
+- 3 dentes de alho;
+- 100ml de vinho branco;
+- 100g de sardinha ou anchovas;
+- 1 colher de sopa de páprica;
+- 1 colher de sopa de pimenta calabresa;
+- 100g de extrato de tomate;
+- Sal.
+
+## Preparo
+
+- Para o *mise en place:*
+    - Corte os pimentões em cubos pequenos;
+    - Corte o alho em *brunoise.*
+- Refogue no azeite o alho e os pimentões até que fiquem macios;
+- Adicione o vinho e deixe evaporar;
+- Adicione a sardinha, o extrato de tomate, a páprica e as pimentas e cozinhe por cerca de 15 minutos em fogo baixo;
+- Com a ajuda de um mixer ou liquidificador, bata até que fique liso e sem pedaços;
+- Cozinhe até ficar num ponto de patê e se necessário, corrija o sal;
+- Espere esfriar e sirva gelado ou em temperatura ambiente.
+
+```
+Rendimento: 10 porções
+Tempo de preparo: 1 hora
+```
+
+![](/blogmangiare/assets/images/06_01.jpg)
+![](/blogmangiare/assets/images/06_02.jpg)

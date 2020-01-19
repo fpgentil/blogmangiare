@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Focaccia"
+date:   2019-03-26 00:00:00 +3
+categories: receita
+---
+
+## Ingredientes
+
+- 470g de farinha do tipo 0;
+- 350ml de água;
+- 5g de fermento biológico fresco;
+- 16g de açúcar ou mel;
+- 12g de sal;
+- 45ml de azeite.
+
+## Preparo
+
+- Misture em uma tigela grande o fermento o açúcar na farinha de trigo;
+- Adicione a água e o azeite e misture até que forme uma massa homogênea;
+- Adicione o sal e sove a massa por cerca de 15 minutos;
+- Regue com um pouco mais de azeite, cubra a massa e deixe fermentar em temperatura ambiente por cerca de 2 horas;
+- Unte uma forma com azeite e despeje lentamente a massa sobre a forma;
+- Delicadamente estique a massa sobre a forma (não se preocupe em cobrir totalmente a forma, com a segunda fermentação esse processo será natural);
+- Cubra a forma com um plástico filme e deixe a massa na segunda fermentação por cerca de 24h na geladeira;
+- Faça pequenos furos com a mão sem rasgar a massa e de maneira delicada;
+- Coloque o topo de sua preferência e asse por cerca de 35 minutos em forno já aquecido a 200 graus;
+- Sirva ainda morna.
+
+```
+Rendimento: 6 porções
+Tempo de preparo: 1 hora + 26 horas de fermentação
+```
+
+![](/blogmangiare/assets/images/08_01.jpg)
+![](/blogmangiare/assets/images/08_02.jpg)

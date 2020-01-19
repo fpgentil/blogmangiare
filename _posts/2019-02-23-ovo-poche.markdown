@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Ovo poché"
+date:   2019-02-23 00:00:00 +3
+categories: receita
+---
+
+## Ingredientes
+
+- Ovo fresco (de preferência caipira);
+- 2l de água;
+- 2 colheres de sopa de vinagre;
+- Sal e pimenta.
+
+## Preparo
+
+- Coloque a água em fogo alto e assim que começar a ferver, adicione o vinagre e abaixe o fogo;
+- Quebre o ovo em um pote com cuidado para que nem a clara e nem a gema se rompam;
+- Faça um redemoinho com ajuda de um *fouet* na água e despeje o ovo no centro;
+- Conte exatos 3 minutos e retire o ovo com ajuda de uma escumadeira;
+- Seque o ovo em papel toalha com cuidado;
+- Tempere com sal e pimenta moída na hora e sirva.
+
+```
+Rendimento: 1 porção
+Tempo de preparo: 5 minutos
+```
+
+![](/blogmangiare/assets/images/04_01.jpg)
+![](/blogmangiare/assets/images/04_02.jpg)
