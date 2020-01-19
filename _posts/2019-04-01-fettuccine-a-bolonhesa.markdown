@@ -5,6 +5,11 @@ date:   2019-04-01 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 6 porções
+Tempo de preparo: 2 horas para a massa e 3 horas para o molho
+```
+
 # Massa
 
 ## Ingredientes
@@ -55,11 +60,6 @@ categories: receita
 - Coloque o molho de tomate, o extrato e cozinhe por cerca de 2 horas em fogo bem baixo;
     - Se necessário, adicione um pouco de água ou caldo de carne para que o molho não queime no fundo da panela;
 - Adicione a massa já cozida, misture e sirva em seguida.
-
-```
-Rendimento: 6 porções
-Tempo de preparo: 2 horas para a massa e 3 horas para o molho
-```
 
 ![](/blogmangiare/assets/images/09_01.jpg)
 ![](/blogmangiare/assets/images/09_02.jpg)

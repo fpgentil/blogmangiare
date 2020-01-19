@@ -5,6 +5,11 @@ date:   2019-09-23 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 8 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 1kg de alcatra ou filé mignon
@@ -34,11 +39,6 @@ categories: receita
 - Adicione o creme de leite, os cogumelos, mexa bem e abaixe o fogo;
 - Cozinhe lentamente por cerca de 40 minutos;
 - Sirva com arroz e batata palha.
-
-```
-Rendimento: 8 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/20_01.jpg)
 ![](/blogmangiare/assets/images/20_02.jpg)

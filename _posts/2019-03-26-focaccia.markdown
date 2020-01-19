@@ -5,6 +5,11 @@ date:   2019-03-26 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 6 porções
+Tempo de preparo: 1 hora + 26 horas de fermentação
+```
+
 ## Ingredientes
 
 - 470g de farinha do tipo 0;
@@ -26,11 +31,6 @@ categories: receita
 - Faça pequenos furos com a mão sem rasgar a massa e de maneira delicada;
 - Coloque o topo de sua preferência e asse por cerca de 35 minutos em forno já aquecido a 200 graus;
 - Sirva ainda morna.
-
-```
-Rendimento: 6 porções
-Tempo de preparo: 1 hora + 26 horas de fermentação
-```
 
 ![](/blogmangiare/assets/images/08_01.jpg)
 ![](/blogmangiare/assets/images/08_02.jpg)

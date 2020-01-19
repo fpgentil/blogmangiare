@@ -5,6 +5,11 @@ date:   2019-03-18 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 2 porções
+Tempo de preparo: 20 minutos
+```
+
 ## Ingredientes
 
 - 2 abacates tipo avocado;
@@ -24,11 +29,6 @@ categories: receita
 - Esprema o suco do limão e misture bem;
 - Adicione o coentro fresco e picado bem pequeno;
 - Sirva imediatamente.
-
-```
-Rendimento: 2 porções
-Tempo de preparo: 20 minutos
-```
 
 ![](/blogmangiare/assets/images/07_01.jpg)
 ![](/blogmangiare/assets/images/07_02.jpg)

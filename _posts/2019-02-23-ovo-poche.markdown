@@ -5,6 +5,11 @@ date:   2019-02-23 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 1 porção
+Tempo de preparo: 5 minutos
+```
+
 ## Ingredientes
 
 - Ovo fresco (de preferência caipira);
@@ -20,11 +25,6 @@ categories: receita
 - Conte exatos 3 minutos e retire o ovo com ajuda de uma escumadeira;
 - Seque o ovo em papel toalha com cuidado;
 - Tempere com sal e pimenta moída na hora e sirva.
-
-```
-Rendimento: 1 porção
-Tempo de preparo: 5 minutos
-```
 
 ![](/blogmangiare/assets/images/04_01.jpg)
 ![](/blogmangiare/assets/images/04_02.jpg)

@@ -5,6 +5,11 @@ date:   2019-06-24 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 6 porções
+Tempo de preparo: 30 minutos
+```
+
 ## Ingredientes
 
 - 3 ovos
@@ -27,11 +32,6 @@ categories: receita
 - Despeje em uma forma média com papel manteiga um bem untada, a massa deve ter cerca de 3cm e não vai crescer muito;
 - Asse por 20 minutos e deixe descansar por mais uns 30 minutos;
 - Pode ser servido ainda morno, em temperatura ambiente ou até mesmo gelado;
-
-```
-Rendimento: 6 porções
-Tempo de preparo: 30 minutos
-```
 
 ![](/blogmangiare/assets/images/16_01.jpg)
 ![](/blogmangiare/assets/images/16_02.jpg)

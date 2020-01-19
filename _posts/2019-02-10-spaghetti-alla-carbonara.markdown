@@ -5,6 +5,11 @@ date:   2019-02-10 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 2 porções
+Tempo de preparo: 30 minutos
+```
+
 ## Ingredientes
 
 - 280g de espaguete
@@ -28,11 +33,6 @@ categories: receita
 - Cozinhe o macarrão de acordo com o tempo da embalagem e, assim que estiver *al dente*, retire da panela transferindo direto pra onde foi fritado o guanciale;
 - Sem o fogo ligado, adicione a mistura com as gemas, queijo e pimenta, coloque uma concha da água da cocção do macarrão e mexa bem sem parar, emulsionando para tornar um molho cremoso;
 - Sirva imediatamente.
-
-```
-Rendimento: 2 porções
-Tempo de preparo: 30 minutos
-```
 
 ![](/blogmangiare/assets/images/01_01.jpg)
 ![](/blogmangiare/assets/images/01_02.jpg)

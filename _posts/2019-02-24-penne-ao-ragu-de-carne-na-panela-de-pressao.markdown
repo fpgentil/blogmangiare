@@ -5,6 +5,11 @@ date:   2019-02-24 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 5 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 500g de macarrão penne;
@@ -33,11 +38,6 @@ categories: receita
 - Tampe a panela e aumente o fogo, assim que pegar pressão, abaixe o fogo e cozinhe por exatos 4 minutos;
 - Desligue o fogo e espere a pressão sair sozinha para abrir a panela, assim o macarrão terminará de cozinhar e ficará *al dente;*
 - Sirva imediatamente com queijo ralado por cima.
-
-```
-Rendimento: 5 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/05_01.jpg)
 ![](/blogmangiare/assets/images/05_02.jpg)

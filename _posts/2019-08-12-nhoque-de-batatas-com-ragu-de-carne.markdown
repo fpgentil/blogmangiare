@@ -5,6 +5,11 @@ date:   2019-08-12 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 4 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 Nhoque
@@ -50,11 +55,6 @@ Ragu
 - Após os 40 minutos da carne, com cuidado, retire a pressão e continue cozinhando em fogo bem lento até que a carne esteja praticamente desfiada e o molho na consistência desejada;
 - Em uma frigideira, refogue, coloque um fio de azeite e frite o nhoque até que fiquem levemente dourados;
 - Sirva em seguida com o molho por cima;
-
-```
-Rendimento: 4 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/19_01.jpg)
 ![](/blogmangiare/assets/images/19_02.jpg)

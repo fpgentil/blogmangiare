@@ -5,6 +5,11 @@ date:   2019-06-04 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 4 porções
+Tempo de preparo: 30 minutos
+```
+
 ## Ingredientes
 
 - 420g de peixe branco
@@ -29,11 +34,6 @@ categories: receita
 - Misture constantemente por aproximadamente 2 minutos;
 - O ceviche chileno costuma ficar pelo menos 10 minutos marinando na geladeira;
 - Sirva acompanhado de pães ou bolachas de água e sal;
-
-```
-Rendimento: 4 porções
-Tempo de preparo: 30 minutos
-```
 
 ![](/blogmangiare/assets/images/14_01.jpg)
 ![](/blogmangiare/assets/images/14_02.jpg)

@@ -5,6 +5,11 @@ date:   2019-03-08 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 10 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 2 pimentões sem pele e sem semente;
@@ -28,11 +33,6 @@ categories: receita
 - Com a ajuda de um mixer ou liquidificador, bata até que fique liso e sem pedaços;
 - Cozinhe até ficar num ponto de patê e se necessário, corrija o sal;
 - Espere esfriar e sirva gelado ou em temperatura ambiente.
-
-```
-Rendimento: 10 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/06_01.jpg)
 ![](/blogmangiare/assets/images/06_02.jpg)

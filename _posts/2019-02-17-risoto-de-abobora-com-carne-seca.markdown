@@ -5,6 +5,11 @@ date:   2019-02-17 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 3 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 1,5l de caldo de legumes
@@ -32,11 +37,6 @@ categories: receita
 - Adicione o queijo e mais uma concha do caldo e misture;
 - Por fim, adicione a manteiga gelada para dar brilho e aumentar a cremosidade;
 - Sirva em um prato fundo com a carne frita por cima.
-
-```
-Rendimento: 3 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/02_01.jpg)
 ![](/blogmangiare/assets/images/02_02.jpg)

@@ -5,6 +5,11 @@ date:   2019-06-19 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 2 porções
+Tempo de preparo: 3 horas
+```
+
 ## Ingredientes
 
 - 150g de asinha de frango
@@ -55,11 +60,6 @@ Montagem:
 - Corte o ovo na metade e monte com o ovo de um lado, a carne e o broto de feijão de outro;
 - Por fim, adicione a alga rente à borda do pote;
 - Finalize com cebolinha picada bem fina e sirva imediatamente;
-
-```
-Rendimento: 2 porções
-Tempo de preparo: 3 horas
-```
 
 ![](/blogmangiare/assets/images/15_01.jpg)
 ![](/blogmangiare/assets/images/15_02.jpg)

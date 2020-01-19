@@ -5,6 +5,11 @@ date:   2019-05-20 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 8 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 700g de acém ou músculo
@@ -31,11 +36,6 @@ categories: receita
 - Retire a pressão lentamente e abra a panela;
 - Adicione a cenoura, a mandioquinha e a sopa de cebola e cozinhe por 15 minutos;
 - Finalize com as ervas e sirva imediatamente.
-
-```
-Rendimento: 8 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/13_01.jpg)
 ![](/blogmangiare/assets/images/13_02.jpg)

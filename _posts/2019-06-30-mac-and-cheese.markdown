@@ -5,6 +5,11 @@ date:   2019-06-30 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 3 porções
+Tempo de preparo: 45 minutos
+```
+
 ## Ingredientes
 
 - 300g de macarrão cotovelo, caracol ou pene;
@@ -24,11 +29,6 @@ categories: receita
 - Tempere com sal e pimenta à gosto e cozinhe por cerca de 2 minutos;
 - Transfira para uma forma ou travessa que possa ir ao forno e cubra com o parmesão ralado por cima;
 - Leve ao forno para gratinar e sirva;
-
-```
-Rendimento: 3 porções
-Tempo de preparo: 45 minutos
-```
 
 ![](/blogmangiare/assets/images/17_01.jpg)
 ![](/blogmangiare/assets/images/17_02.jpg)

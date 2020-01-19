@@ -5,6 +5,11 @@ date:   2019-05-07 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 4 porções
+Tempo de preparo: 45 minutos
+```
+
 ## Ingredientes
 
 - 500g de espaguete
@@ -28,11 +33,6 @@ categories: receita
 - Escorra o macarrão para a panela com o molho e mexa para incorporar;
 - Adicione cerca de 90% do queijo ralado e misture bem para dar cremosidade;
 - Sirva com o restante do queijo ralado por cima.
-
-```
-Rendimento: 4 porções
-Tempo de preparo: 45 minutos
-```
 
 ![](/blogmangiare/assets/images/12_01.jpg)
 ![](/blogmangiare/assets/images/12_02.jpg)

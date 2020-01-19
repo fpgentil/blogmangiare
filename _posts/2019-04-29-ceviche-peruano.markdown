@@ -5,6 +5,11 @@ date:   2019-04-09 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 4 porções
+Tempo de preparo: 20 minutos
+```
+
 ## Ingredientes
 
 - 280g de peixe branco;
@@ -23,11 +28,6 @@ categories: receita
 - Acrescente a cebola e o coentro e mexa por 4 minutos;
 - Se necessário, adicione um pouco mais de água para equilibrar a acidez;
 - Acerte o sal e sirva imediatamente.
-
-```
-Rendimento: 4 porções
-Tempo de preparo: 20 minutos
-```
 
 ![](/blogmangiare/assets/images/11_01.jpg)
 ![](/blogmangiare/assets/images/11_02.jpg)

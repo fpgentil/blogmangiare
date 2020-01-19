@@ -5,6 +5,11 @@ date:   2019-02-20 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 10 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 2 berinjelas
@@ -36,11 +41,6 @@ categories: receita
 - Lave as berinjelas desidratadas e as seque bem, em seguida, frite em óleo para que fiquem crocantes por fora e macias por dentro;
 - Misture as berinjelas com o restante, adicione as folhas de manjericão e leve pra gelar;
 - Sirva gelado ou em temperatura ambiente.
-
-```
-Rendimento: 10 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/03_01.jpg)
 ![](/blogmangiare/assets/images/03_02.jpg)

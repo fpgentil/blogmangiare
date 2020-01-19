@@ -5,6 +5,11 @@ date:   2019-07-08 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 4 porções
+Tempo de preparo: 1 hora
+```
+
 ## Ingredientes
 
 - 500g de carne seca dessalgada *
@@ -32,10 +37,5 @@ categories: receita
 - A espessura do caldo pode ser alterada com mais ou menos água do cozimento da mandioquinha, deixe a seu gosto;
 - Finalize com a cebolinha e o queijo parmesão ralado por cima;
 - Sirva com pão ou torradas em um prato fundo ou uma tigela para caldos;
-
-```
-Rendimento: 4 porções
-Tempo de preparo: 1 hora
-```
 
 ![](/blogmangiare/assets/images/18_01.jpg)

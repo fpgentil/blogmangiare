@@ -5,6 +5,11 @@ date:   2019-04-09 00:00:00 +3
 categories: receita
 ---
 
+```
+Rendimento: 5 porções
+Tempo de preparo: 45 minutos
+```
+
 ## Ingredientes
 
 - 400g de arroz arbóreo, carnaroli ou vialone nano
@@ -32,11 +37,6 @@ categories: receita
 - Quando o risoto estiver próximo de ficar *al dente*, adicione a carne e os queijos e mais uma concha do caldo e misture;
 - Por fim, adicione a manteiga gelada para dar cremosidade e brilho;
 - Sirva imediatamente.
-
-```
-Rendimento: 5 porções
-Tempo de preparo: 45 minutos
-```
 
 ![](/blogmangiare/assets/images/10_01.jpg)
 ![](/blogmangiare/assets/images/10_02.jpg)
