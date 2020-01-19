@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spaghetti alla carbonara"
-date:   2019-03-23 21:03:36 +0530
+date:   2019-02-10 00:00:00 +3
 categories: receita
 ---
 
@@ -33,7 +33,6 @@ categories: receita
 Rendimento: 2 porções
 Tempo de preparo: 30 minutos
 ```
-
 
 ![](/blogmangiare/assets/images/01_01.jpg)
 ![](/blogmangiare/assets/images/01_02.jpg)
