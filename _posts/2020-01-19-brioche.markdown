@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Brioche"
+date:   2020-01-19 00:00:00 +3
+categories: receita
+---
+
+```
+Rendimento: 5 porções
+Tempo de preparo: 5 horas
+```
+
+## Ingredientes
+
+- 500g farinha
+- 6 ovos
+- 250g manteiga sem sal
+- 25g açúcar
+- 10g sal
+- 50g de leite morno
+- 25g fermento biológico
+
+## Preparo
+
+- Peneire a farinha em uma tigela ou na bancada;
+- Dilua metade do leite com o fermento e a outra metade com o açúcar;
+- Adicione as misturas à farinha;
+- Aos poucos, adicione os ovos levemente batidos incorporando na massa;
+- Sove a massa até que comece a descolar da bancada ou do fundo da tigela;
+- Adicione a manteiga aos poucos sempre a incorporando por total na massa;
+- Polvilhe um pouco de farinha na bancada e faça uma bola com a massa;
+- Deixe-a descansar por entre 1 e 2 horas em temperatura próxima de 25 graus - se tiver um dia frio, acenda a luz do forno e deixe a massa dentro coberta com um filme plástico;
+- Após a primeira fermentação, trabalhe a massa para retirar um pouco do ar e deixe a massa descansar na geladeira por cerca de 2 horas;
+- Com a massa pronta, faça bolinhas e deixe-as descansar por mais 30 minutos - aqueça o forno em 180 graus;
+- Asse os brioches por aproximadamente 35 minutos ou até que fiquem dourados;
+- Retire do forno e deixe descansar por pelo menos uns 10 minutos para que nao se despedace ao ser cortado;
+
+![](/blogmangiare/assets/images/21_01.jpg)
+![](/blogmangiare/assets/images/21_02.jpg)
