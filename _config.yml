@@ -10,6 +10,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
+  url: https://fpgentil.github.io/blogmangiare
   name: Blog Mangiare
   tagline: Receitas
   date_format: "%b %-d, %Y"
